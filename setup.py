@@ -11,7 +11,7 @@ config = {
     'license': 'BSD-4-Clause',
     'packages': find_packages(),
     'classifiers': [],
-    'install_requires': ['regex==2018.1.10']
+    'install_requires': []
 }
 
 setup(**config)
